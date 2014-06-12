@@ -1,6 +1,8 @@
 fitterhappier
 =============
 
-Drag the file into your user bin env.
-Run fitterhappier in the command line.
+Copy the file into your */usr/bin/*.
+
+Run `fitterhappier` in the command line.
+
 Get life advice.
